@@ -13,3 +13,9 @@ This project was prepared by using openai API, "YourCodingAI" is similar to Chat
   ![ScreenShot1](https://cdn.discordapp.com/attachments/636950095056863243/1069201433053909092/image.png)
   ![ScreenShot2](https://cdn.discordapp.com/attachments/636950095056863243/1069201659898638376/image.png)
   ![ScreenShot3](https://cdn.discordapp.com/attachments/636950095056863243/1069202256760672296/image.png)
+
+### Need Help?
+
+-  **Discord :** </Av1v7>#2420 || https://discord.gg/Pf2cj9ZNAa.
+-  **Twitter :** https://twitter.com/Av1vF.
+-  **Gmail :** avivshemesh96@gmail.com.
