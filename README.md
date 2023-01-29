@@ -16,6 +16,6 @@ This project was prepared by using openai API, "YourCodingAI" is similar to Chat
 
 ### Need Help?
 
--  **Discord :** </Av1v7>#2420 || https://discord.gg/Pf2cj9ZNAa.
+-  **Discord :** Av1v7#2420 || https://discord.gg/Pf2cj9ZNAa.
 -  **Twitter :** https://twitter.com/Av1vF.
 -  **Gmail :** avivshemesh96@gmail.com.
