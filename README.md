@@ -10,6 +10,6 @@ This project was prepared by using openai API, "YourCodingAI" is similar to Chat
   6. Enjoy !
   
   ## Enjoy.
-  ![ScreenShot1]([https://imgur.com/OBHaksF](https://cdn.discordapp.com/attachments/636950095056863243/1069201433053909092/image.png))
+  ![ScreenShot1](https://cdn.discordapp.com/attachments/636950095056863243/1069201433053909092/image.png)
   ![ScreenShot2](https://imgur.com/TnEUsPH)
   ![ScreenShot3](https://imgur.com/S57isLj)
