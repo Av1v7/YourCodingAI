@@ -8,6 +8,11 @@ This project was prepared by using openai API, "YourCodingAI" is similar to Chat
   4. go to .\client\, use npm run dev.
   5. open those "localhost" links.
   6. Enjoy !
+
+### .env
+```
+OPENAI_API_KEY = "YOURAPIKEY" 
+```
   
   ## Enjoy.
   ![ScreenShot1](https://cdn.discordapp.com/attachments/636950095056863243/1069201433053909092/image.png)
